@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "name": "Ravina",
+      "contact": "9898989898",
+      "age": "23",
+      "address": "Surat",
+      "id": 6,
+      "dob": "2000-10-28"
+    },
+    {
+      "name": "Samir",
+      "contact": "9878453454",
+      "age": "28",
+      "address": "Baroda",
+      "id": 7,
+      "dob": "2000-10-16"
+    },
+    {
+      "name": "Arpit",
+      "contact": "9843763456",
+      "age": "30",
+      "address": "Ahmedabad",
+      "id": 8,
+      "dob": "2000-07-07"
+    },
+    {
+      "name": "Riya",
+      "contact": "9878766545",
+      "age": "25",
+      "address": "surat",
+      "id": 11,
+      "dob": "2000-08-12"
+    },
+    {
+      "name": "Kiyansh",
+      "contact": "9834894398",
+      "age": "24",
+      "address": "Ahmedabad",
+      "id": 12,
+      "dob": "2001-09-15"
+    },
+    {
+      "name": "Nirav",
+      "contact": "9832734763",
+      "age": "34",
+      "address": "surat",
+      "id": 13,
+      "dob": "1999-12-12"
+    }
+  ]
+}
